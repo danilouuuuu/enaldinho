@@ -1,0 +1,19 @@
+:root {
+    --cor-de-fundo: rgb(200, 175, 190);
+}
+
+body {
+    background-color: #c22f2f;
+    text-align: center;
+  }
+  
+  .cabecalho{
+    background-color: var(--cor-cabecalho);
+  }
+  
+  .cabecalho-titulo {
+    padding: 12px;
+    font-size: 36px;
+    font-weight: 700; 
+    text-align: center;
+  }
